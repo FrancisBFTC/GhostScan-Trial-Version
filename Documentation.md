@@ -309,4 +309,4 @@ Agora falando dos algoritmos específicos para outras operações: O ScreenShot 
  
  Site Oficial : [bftcorporations.mywebcommunity.org](http://bftcorporations.mywebcommunity.org/Courses)
  
- [Voltar ao repositório](https://github.com/FrancisBFTC/GhostScan-JAVA/)
+ [Voltar ao repositório](https://github.com/FrancisBFTC/GhostScan-Trial-Version/)
